@@ -9,7 +9,7 @@ Conoce lo que hacés, habla como vos, y te ayuda a pensar, decidir y trabajar m�
 
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 ![Idioma](https://img.shields.io/badge/idioma-espa%C3%B1ol-blue)
-![Hecho por](https://img.shields.io/badge/hecho%20por-Seneca%20AI-black)
+![Hecho por](https://img.shields.io/badge/hecho%20por-Facundo%20Heredia-black)
 
 </div>
 
@@ -106,7 +106,7 @@ os-launcher/
 
 Este kit es una adaptación al castellano y al contexto PyME de la metodología de **[Nate Herk](https://www.skool.com/ai-automation-society)** (AI Automation Society).
 
-**Los 3 Ms de la IA™** y **Las 4 Cs de un AIOS™** son marcas registradas de Nate Herk (© 2026 Nate Herk). Se usan en este kit con atribución. No son creación de Seneca AI.
+**Los 3 Ms de la IA™** y **Las 4 Cs de un AIOS™** son marcas registradas de Nate Herk (© 2026 Nate Herk). Se usan en este kit con atribución. No son creación de Facundo Heredia.
 
 ## Licencia
 
@@ -116,7 +116,7 @@ Este kit es una adaptación al castellano y al contexto PyME de la metodología 
 
 <div align="center">
 
-Hecho por **[Seneca AI](#)** — automatización con IA para PyMEs.
+Hecho por **[Facundo Heredia](https://facundo-heredia.vercel.app)** — automatización con IA para PyMEs.
 
 _¿Querés que te ayudemos a montar el tuyo? Escribinos._
 
